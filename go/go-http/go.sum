@@ -1,2 +1,4 @@
+github.com/getvolume/webhook-validator-go v0.0.1 h1:IX0uxxOvXm9AEmtyuNan7aqABDGnNJnTV9mgmftSikg=
+github.com/getvolume/webhook-validator-go v0.0.1/go.mod h1:qExDrxqS35viRYWdnLTii4qtyrsUeJ7ThJDAVbs4ERI=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

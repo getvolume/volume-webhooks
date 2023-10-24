@@ -9,8 +9,7 @@ import (
 	"strings"
 
 	"github.com/joho/godotenv"
-
-	"volume.io/validator"
+	"github.com/getvolume/webhook-validator-go"
 )
 
 var logger = log.New(os.Stdout, "INFO: ", log.Ldate|log.Ltime)
